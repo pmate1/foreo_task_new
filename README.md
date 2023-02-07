@@ -1,5 +1,5 @@
 # foreo_task_new
-Task for junior data engineer
+The task for a junior data engineer
 
 - folder .idea contains files generated in pycharm project
 
